@@ -4,3 +4,8 @@ __pycache__/
 target/
 .idea/
 .vscode/
+.env.*
+!.env.example
+*.pem
+*.p12
+*.jks
